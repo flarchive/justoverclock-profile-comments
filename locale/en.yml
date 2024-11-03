@@ -1,0 +1,22 @@
+justoverclock-profile-comments:
+  # For more details on the format
+  # Checkout https://docs.flarum.org/extend/i18n/#appendix-a-standard-key-format
+  admin:
+    my_cool_key: My Cool Key
+
+  forum:
+    cantComment: Self-commenting not allowed
+    createComment: Create comment
+    leaveComment: Leave comment
+    alertCommentCreated: Comment posted successfully
+    alertCommentError: There was an error submitting your comment. Please try again.
+    commentsPageLink: Comments
+    commentedBy: Posted by
+    postedOn: Posted on
+    userName: Username
+    commentCount: Comment count
+    placeholderCommentTitle: Comment title
+    placeholderComment: Write your comment...
+    createCommentModalTitle: Leave a comment to this user
+    previousPage: Previous
+    nextPage: Next
