@@ -1,0 +1,84 @@
+.profile-comment-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: .3rem;
+  padding: .5rem;
+  position: relative;
+
+  .delete-comment {
+    position: absolute;
+    right: 0;
+    top: 18px;
+    background: red;
+    cursor: pointer;
+    border: none;
+  }
+
+  h4, h2, p {
+    margin: 0;
+  }
+
+  .profile-comments-header {
+    display: flex;
+    gap: .8rem;
+    align-items: flex-start;
+  }
+
+  .profile-comments-info {
+    display: flex;
+    gap: .5rem;
+
+    .avatar {
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+    }
+
+    .profile-comment-username {
+      color: var(--muted-more-color);
+    }
+  }
+
+  .profile-comment {
+    display: flex;
+    flex-direction: column;
+    gap: .2rem;
+
+    h4, h2, p {
+      margin: 0;
+    }
+
+    .profile-user-comment {
+      margin-bottom: 1rem;
+      max-width: 90%;
+    }
+
+    .profile-comment-author {
+      margin-left: .5rem;
+    }
+  }
+}
+
+.profile-comment-info-container {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+}
+
+.profile-comment-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.add-profile-comment {
+  padding: 2rem;
+}
+
+.profile-comment-pagination {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2rem;
+}
