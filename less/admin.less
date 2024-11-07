@@ -1,0 +1,45 @@
+.profile-comment-admin-list {
+  padding: 1rem;
+  overflow-x: auto;
+
+  .profile-comment-admin-list-table {
+    min-width: 600px;
+    border-collapse: collapse;
+    table-layout: auto; /* Use automatic layout for the table */
+    width: 100%;
+  }
+
+  .UserListPage-grid-header,
+  td {
+    padding: 8px;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .comment-cell {
+    white-space: normal;
+  }
+
+  @media (max-width: 768px) {
+    .profile-comment-admin-list {
+      padding-bottom: 8px;
+    }
+
+    .UserListPage-grid-header,
+    td {
+      padding: 8px;
+      text-align: left;
+      white-space: unset;
+      overflow: unset;
+      text-overflow: unset;
+    }
+  }
+}
+
+.profile-comment-admin-pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+}
