@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of justoverclock/profile-comments.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/profile-comments) or the [upstream repository](https://github.com/justoverclockl/flarum-profile-comments).
 
-**0** versions archived · Latest: [`1.3.0`](https://github.com/flarchive/justoverclock-profile-comments/tree/archive/v1.3.0) · License: `MIT` · Flarum: `^1.2.0`
+**6** versions archived · Latest: [`1.3.0`](https://github.com/flarchive/justoverclock-profile-comments/tree/archive/v1.3.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2024-11-03 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-comments/tree/archive/v1.0.0) |
+| `1.0.1` | 2024-11-03 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-comments/tree/archive/v1.0.1) |
+| `1.1.1` | 2024-11-03 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-comments/tree/archive/v1.1.1) |
+| `1.2.1` | 2024-11-03 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-comments/tree/archive/v1.2.1) |
+| `1.2.2` | 2024-11-04 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-comments/tree/archive/v1.2.2) |
+| `1.3.0` | 2024-11-07 | `^1.2.0` | [Browse](https://github.com/flarchive/justoverclock-profile-comments/tree/archive/v1.3.0) |
 
 Catalog entry: [packages/justoverclock-profile-comments.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-profile-comments.json)
 
